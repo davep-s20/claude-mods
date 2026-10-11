@@ -1,0 +1,13 @@
+{
+  "name": "claude-mods",
+  "description": "Playful mods for Claude Code and the Claude desktop app",
+  "owner": {
+    "name": "David Pinchen"
+  },
+  "plugins": [
+    {
+      "name": "agent-parade",
+      "source": "./mods/agent-parade"
+    }
+  ]
+}

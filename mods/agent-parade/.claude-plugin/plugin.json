@@ -1,0 +1,9 @@
+{
+  "name": "agent-parade",
+  "version": "0.2.0",
+  "description": "A side panel of animated avatars for the main agent and every subagent: what each is doing, its tokens and tools, and when it finishes",
+  "author": {
+    "name": "David Pinchen"
+  },
+  "types": "./types/index.d.ts"
+}
